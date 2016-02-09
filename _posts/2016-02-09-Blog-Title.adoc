@@ -1,6 +1,5 @@
 = Blog Title
-:hp-image: http://images.google.fr/url?sa=t&rct=j&q=&source=imgres&cd=1&ved=0ahUKEwjYkLGpu-vKAhWLvRQKHRzEA6wQ5hMIBTAA&url=http%3A%2F%2Fdrgoulu.com%2Fwp-content%2Fuploads%2F2015%2F10%2FEinstein_laughing.jpeg&usg=AFQjCNFY1UVYdYF68K1C9oExSv54jyi_jA&sig2=WrPV42uCYdvuVotqGt2HFg
-
+:hp-image: http://drgoulu.com/wp-content/uploads/2015/10/Einstein_laughing.jpeg
 == hello, world2
 fefee
 My first post.2
