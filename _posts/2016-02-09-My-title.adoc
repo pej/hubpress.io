@@ -1,3 +1,4 @@
 = My title
 == hello, world
 My first post.
+image::http://orig15.deviantart.net/e174/f/2011/124/f/9/cosmic_pioneer_plaque_by_saintabyssal-d3fkl0h.png[]
