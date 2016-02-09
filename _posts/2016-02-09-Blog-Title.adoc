@@ -1,5 +1,5 @@
 = Blog Title
-:hp-image: 
+:hp-image: a.jpg
 == hello, world2
 fefee
 My first post.2
