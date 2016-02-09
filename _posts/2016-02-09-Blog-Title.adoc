@@ -1,5 +1,6 @@
-= My title2
-fefefe
+= Blog Title
+:hp-image: a-cover-image.jpg= My title2
+fefef
 == hello, world2
 fefee
 My first post.2
