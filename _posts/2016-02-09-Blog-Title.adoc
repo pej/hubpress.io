@@ -1,5 +1,5 @@
 = Blog Title
-:hp-image: http://drgoulu.com/wp-content/uploads/2015/10/Einstein_laughing.jpeg[]
+:hp-image: 
 == hello, world2
 fefee
 My first post.2
